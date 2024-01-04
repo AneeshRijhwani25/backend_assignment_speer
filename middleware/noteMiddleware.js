@@ -1,5 +1,3 @@
-// middleware/noteMiddleware.js
-
 const Note = require('../models/noteModel');
 
 async function checkNoteOwnership(req, res, next) {

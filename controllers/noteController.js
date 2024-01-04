@@ -1,4 +1,3 @@
-
 const noteService = require('../services/noteService');
 
 async function getNotes(req, res, next) {

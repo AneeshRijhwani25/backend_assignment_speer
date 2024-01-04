@@ -1,5 +1,3 @@
-// services/noteService.js
-
 const Note = require('../models/noteModel');
 
 async function getNotes(userId) {
